@@ -1,5 +1,7 @@
-![IMG_20230624_190427](https://github.com/lawlietqq/Distributed-Database-with-Raft/assets/92260319/b58c5677-6803-4c30-bfcf-addc104eed1c)# Distributed-Database-with-Raft
+Distributed-Database-with-Raft
+
 lab1 MapReduce模型
+
 lab1 分布式概念比较好理解，就是一个简单的并行处理的概念，需要合理使用golang语言的map结构。
 
 ![image](https://github.com/lawlietqq/Distributed-Database-with-Raft/assets/92260319/3b2b75fc-d24f-48e2-aece-4559d5ed486c)
