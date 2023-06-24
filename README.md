@@ -1,5 +1,7 @@
 Distributed-Database-with-Raft
 
+6.824 lab
+
 lab1 MapReduce模型
 
 lab1 分布式概念比较好理解，就是一个简单的并行处理的概念，需要合理使用golang语言的map结构。
